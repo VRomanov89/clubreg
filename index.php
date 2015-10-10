@@ -13,7 +13,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Club Elite</a>
+                <a class="navbar-brand page-scroll" href="#page-top">Owl Groove</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -48,7 +48,7 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To Club Elite!</div>
+                <div class="intro-lead-in">Welcome To Owl Groove!</div>
                 <div class="intro-heading">Club and Venue Reservations Made Easy & Rewarding!</div>
                 <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
