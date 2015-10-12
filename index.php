@@ -1,24 +1,11 @@
 <?php include('php/header.html'); ?>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
     <title>Owl Groove - Nightlife Booking Made Simple</title>
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/agency.css" rel="stylesheet">
     </head>
-<?php include('includes.html'); ?>
-    
-=======
->>>>>>> parent of b356d09... Footer & Header Corrections
-=======
->>>>>>> parent of b356d09... Footer & Header Corrections
-=======
->>>>>>> parent of b356d09... Footer & Header Corrections
-=======
->>>>>>> parent of b356d09... Footer & Header Corrections
 
 <body id="page-top" class="index">
 
