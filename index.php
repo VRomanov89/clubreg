@@ -1,10 +1,6 @@
 <?php include('php/header.html'); ?>
 
     <title>Owl Groove - Nightlife Booking Made Simple</title>
-    <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom CSS -->
-    <link href="css/agency.css" rel="stylesheet">
     </head>
 
 <body id="page-top" class="index">
