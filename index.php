@@ -146,44 +146,39 @@
                     <h2 class="section-heading">Stay Tuned!</h2>
                     <h3 class="section-subheading text-muted">Subscribe to our mailing list and be the first one to take advantage of our pre-launch member rewards.</h3>
                 </div>
-            </div>
+            </div>            
             <div class="row">
                 <div class="col-lg-12">
-                    <!-- <form name="sentMessage" id="contactForm" novalidate> -->
-                    <form action="//seamstitch.us9.list-manage.com/subscribe/post?u=d99dde738a321017d4499c032&amp;id=243c77e6c0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-                        <div class="row">
-                            <div class="col-md-6 col-md-offset-3">
-                                <!-- <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
-                                    <p class="help-block text-danger"></p>
-                                </div> -->
-                                <div class="form-group">
-                                    <!-- <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address."> -->
-                                    <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Your Email *">
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                                <!-- <div class="form-group">
-                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
-                                    <p class="help-block text-danger"></p>
-                                </div> -->
-                            </div>
-                            <!-- <div class="col-md-6">
-                                <div class="form-group">
-                                    <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
-                                    <p class="help-block text-danger"></p>
-                                </div>
-                            </div> -->
-                            <div class="clearfix"></div>
-                            <div class="col-lg-12 text-center">
-                                <div id="success"></div>
-                                <button type="submit" class="btn btn-xl">Subscribe</button>
-                                <!-- <div style="position: absolute; left: -5000px;"><input type="text" name="b_d99dde738a321017d4499c032_243c77e6c0" tabindex="-1" value=""></div>
-    							<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-xl"></div> -->
-                            </div>
-                        </div>
-                    </form>
-                </div>
+            		<div class="row">
+            			<form action="//owlgroove.us11.list-manage.com/subscribe/post?u=6f93c465acc22a9e868f06482&amp;id=ee0f3d9838" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                 		<div class="col-md-6 col-md-offset-3">
+							<div id="mc_embed_signup">
+    							<div id="mc_embed_signup_scroll">
+									<div class="form-group">
+										<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Your Email *">
+									</div>
+									<div id="mce-responses" class="clear">
+										<div class="response" id="mce-error-response" style="display:none">
+										</div>
+										<div class="response" id="mce-success-response" style="display:none">
+										</div>
+									</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+								</div>
+							</div>
+			       		</div>
+			       		<div class="col-lg-12 text-center">
+                        	<div id="success">
+                        	</div>
+          					<div style="position: absolute; left: -5000px;">
+    							<input type="text" name="b_6f93c465acc22a9e868f06482_ee0f3d9838" tabindex="-1" value="">
+    						</div>
+        					<div class="clear">
+    							<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-xl">
+    						</div>
+                    	</div>
+			       		</form>
+					</div>
+				</div>
             </div>
         </div>
     </section>
